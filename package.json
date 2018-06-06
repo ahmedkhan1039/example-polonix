@@ -1,0 +1,9 @@
+{
+  "name": "poloniex-api",
+  "main": "server.js",
+  "version": "1.0.0",
+  "dependencies": {
+    "poloniex-api-node": "^1.9.0",
+    "socks5-https-client": "^1.2.1"
+  }
+}
